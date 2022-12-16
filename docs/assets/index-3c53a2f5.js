@@ -70,13 +70,13 @@
             <h2>skills</h2>
         </div>
         <div class="skill-span">
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg1.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg2.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg3.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg5.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg6.png"/></span>
-            <span><img src="/Portafolio-Web/public/assets/imagenes/pngegg7.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg1.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg2.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg3.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg5.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg6.png"/></span>
+            <span><img src="/Portafolio-Web/assets/imagenes/pngegg7.png"/></span>
         </div>
     `,o.classList.add("span6"),o.classList.add("skill"),o.id="skills",l.append(u),l.append(o),visualViewport.width<800&&(l.append(o),l.append(u))};const H=l=>{const u=document.createElement("div");u.innerHTML=`
         <div class="skill-h2">
@@ -84,16 +84,16 @@
         </div>
         <div class="swiper">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="/Portafolio-Web/public/assets/imagenes/img1.png" />
+            <div class="swiper-slide"><img src="/Portafolio-Web/assets/imagenes/img1.png" />
             <span><a href="https://onlinetienda.netlify.app/">Watch</a></span>
             </div>
-            <div class="swiper-slide"><img src="/Portafolio-Web/public/assets/imagenes/img2.png" />
+            <div class="swiper-slide"><img src="/Portafolio-Web/assets/imagenes/img2.png" />
             <span><a href="https://ecomersbootstrap.netlify.app/">Watch</a></span>
             </div>
-            <div class="swiper-slide"><img src="/Portafolio-Web/public/assets/imagenes/img3.png" />
+            <div class="swiper-slide"><img src="/Portafolio-Web/assets/imagenes/img3.png" />
             <span><a href="https://webapple.netlify.app/">Watch</a></span>
             </div>
-            <div class="swiper-slide"><img src="/Portafolio-Web/public/assets/imagenes/img4.png" />
+            <div class="swiper-slide"><img src="/Portafolio-Web/assets/imagenes/img4.png" />
             <span><a href="https://burguerrest.netlify.app/">Watch</a></span>
             </div>
         </div>
